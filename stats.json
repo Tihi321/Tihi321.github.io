@@ -1,0 +1,64 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-bd308d8965b05b17451f.js",
+      "component---src-pages-index-js-bd308d8965b05b17451f.js.map"
+    ],
+    "path---web-development": [
+      "path---web-development-a0e39f21c11f6a62c5ab.js",
+      "path---web-development-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---video-production": [
+      "path---video-production-a0e39f21c11f6a62c5ab.js",
+      "path---video-production-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-418bc261f48a0474db25.js",
+      "component---src-layouts-index-js-418bc261f48a0474db25.js.map"
+    ],
+    "component---src-pages-web-development-js": [
+      "component---src-pages-web-development-js-c25eb9afffc3233025eb.js",
+      "component---src-pages-web-development-js-c25eb9afffc3233025eb.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-7498eb963cc770c9ac27.js",
+      "component---src-pages-404-js-7498eb963cc770c9ac27.js.map"
+    ],
+    "commons": [
+      "commons-b4cf5135ceb8d6515284.js",
+      "commons-b4cf5135ceb8d6515284.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-video-production-js": [
+      "component---src-pages-video-production-js-f95b54dd50a75e7927d9.js",
+      "component---src-pages-video-production-js-f95b54dd50a75e7927d9.js.map"
+    ],
+    "path---android": [
+      "path---android-a0e39f21c11f6a62c5ab.js",
+      "path---android-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-a68070b9d8be1f3a6517.js",
+      "app-a68070b9d8be1f3a6517.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-android-js": [
+      "component---src-pages-android-js-6f8ba6089ef06af72dee.js",
+      "component---src-pages-android-js-6f8ba6089ef06af72dee.js.map"
+    ]
+  }
+}
